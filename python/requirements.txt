@@ -1,0 +1,9 @@
+pandas==2.2.2
+typer==0.9.4
+cupy-cuda12x
+cucim
+pynvml
+connected-components-3d
+SimpleITK==2.5.0
+itk==5.4.3
+nibabel==5.3.2

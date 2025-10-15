@@ -1,0 +1,16 @@
+ 29-01-2025 15:45:35:313 [pid=24976 tid=24976] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 29-01-2025 15:45:35:313 [pid=24976 tid=24976] ERROR  cufio_core:898 missing cuda symbols while dynamic loading
+ 29-01-2025 15:45:35:314 [pid=24976 tid=24976] ERROR  cufio_core:1038 cuFile initialization failed
+ 29-01-2025 15:46:00:316 [pid=25018 tid=25018] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 29-01-2025 15:46:00:316 [pid=25018 tid=25018] ERROR  cufio_core:898 missing cuda symbols while dynamic loading
+ 29-01-2025 15:46:00:316 [pid=25018 tid=25018] ERROR  cufio_core:1038 cuFile initialization failed
+ 29-01-2025 15:46:12:245 [pid=25056 tid=25056] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 29-01-2025 15:46:12:245 [pid=25056 tid=25056] ERROR  cufio_core:898 missing cuda symbols while dynamic loading
+ 29-01-2025 15:46:12:245 [pid=25056 tid=25056] ERROR  cufio_core:1038 cuFile initialization failed
+ 29-01-2025 15:46:20:302 [pid=25093 tid=25093] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 29-01-2025 15:46:20:302 [pid=25093 tid=25093] ERROR  cufio_core:898 missing cuda symbols while dynamic loading
+ 29-01-2025 15:46:20:302 [pid=25093 tid=25093] ERROR  cufio_core:1038 cuFile initialization failed
