@@ -2,7 +2,7 @@
     Docker Model Templates
 </h1>
 <h3 align="center">
-    Templates for creating a Docker model submission on Synapse.
+    CVHCI Team's submission to Task2a and Task2b for LISA 2025. The code is almost identical to the template provided by the organizers so you need to use the exact same commands to build and run all Docker containers.
 </h3>
 
 You can either build off of this repository template or use it as reference
