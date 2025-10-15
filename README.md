@@ -1,5 +1,5 @@
 <h1 align="center">
-    Docker Model Templates
+    CVHCI - Task2a and Task2b
 </h1>
 <h3 align="center">
     CVHCI Team's submission to Task2a and Task2b for LISA 2025. The code is almost identical to the template provided by the organizers so you need to use the exact same commands to build and run all Docker containers.
